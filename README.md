@@ -44,3 +44,7 @@ basic information including integrity level.
 Compiled binaries with example payload:
 
 [![](https://bytecode77.com/images/shared/fileicons/zip.png) DisplayLanguagesVolatileEnvironmentLPE rev1 Binaries.zip](https://bytecode77.com/downloads/hacking/exploits/uac-bypass/DisplayLanguagesVolatileEnvironmentLPE%20rev1%20Binaries.zip)
+
+## Project Page
+
+[![](https://bytecode77.com/images/shared/favicon16.png) bytecode77.com/hacking/exploits/uac-bypass/display-languages-privilege-escalation](https://bytecode77.com/hacking/exploits/uac-bypass/display-languages-privilege-escalation)
