@@ -28,7 +28,7 @@ When everything worked correctly, Payload.exe should be executed, displaying bas
 
 Compiled binaries with example payload:
 
-[![](http://bytecode77.com/public/fileicons/zip.png) DisplayLanguagesVolatileEnvironmentLPE.zip](https://bytecode77.com/downloads/DisplayLanguagesVolatileEnvironmentLPE.zip)
+[![](http://bytecode77.com/public/fileicons/zip.png) DisplayLanguagesVolatileEnvironmentLPE.zip](https://downloads.bytecode77.com/DisplayLanguagesVolatileEnvironmentLPE.zip)
 (**ZIP Password:** bytecode77)
 
 ## Project Page
